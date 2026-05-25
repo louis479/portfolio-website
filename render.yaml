@@ -1,0 +1,9 @@
+services:
+  - type: static-site
+    name: portfolio-website
+    env: static
+    branch: main
+    buildCommand: ""
+    staticPublishPath: /
+    rootDir: /
+    plan: free
