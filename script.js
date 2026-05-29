@@ -11,7 +11,7 @@ const projects = [
         description: "A learning management system with courses, quizzes and progress tracking for language learners.",
         tags: ["Flask", "JavaScript", "SQL"],
         liveUrl: "#contact",
-        codeUrl: "#contact"
+        codeUrl: "https://github.com/louis479/Learningplatform"
     },
     {
         title: "Portfolio Website",
