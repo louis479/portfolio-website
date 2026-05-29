@@ -10,7 +10,7 @@ const projects = [
         title: "Swahiliplot Learning Platform",
         description: "A learning management system with courses, quizzes and progress tracking for language learners.",
         tags: ["Flask", "JavaScript", "SQL"],
-        liveUrl: "#contact",
+        liveUrl: "https://swahilipot-learning.onrender.com/dashboard/",
         codeUrl: "https://github.com/louis479/Learningplatform"
     },
     {
